@@ -136,7 +136,7 @@ nav li:hover::after {
     transition: width .5s;
 }
 nav li:hover {
-    filter: invert(0%) sepia(97%) saturate(3431%) hue-rotate(17deg) brightness(91%) contrast(95%);
+    filter: invert(60%) sepia(64%) saturate(2962%) hue-rotate(227deg) brightness(103%) contrast(102%);
 }
 .house {
     margin-left: 0;
@@ -267,7 +267,7 @@ nav #hamburger {
     transform: scale(1.2);
     -webkit-transform: scale(1.2);
     -ms-transform: scale(1.2);
-    filter: invert(87%) sepia(54%) saturate(3283%) hue-rotate(16deg) brightness(88%) contrast(103%);
+    filter: invert(30%) sepia(64%) saturate(2962%) hue-rotate(227deg) brightness(103%) contrast(102%);
 }
 .behance-logo {
     width: auto;
@@ -304,7 +304,7 @@ nav #hamburger {
     transition: .5s ease;
 }
 .about-me-text:hover {
-    color: yellowgreen;
+    color: #6365FF;
 }
 .hello {
     font-family: 'FiraCode', sans-serif;
@@ -319,7 +319,7 @@ nav #hamburger {
     transition: .5s ease;
 }
 .hello:hover {
-    color: #a9e30b;
+    color: #6365FF;
 }
 .about-me-desc {
     font-family: 'Gilroy Light', sans-serif;
@@ -428,7 +428,7 @@ nav #hamburger {
 .contact-border {
     width: 125px;
     height: 5px;
-    background: #a9e30b;
+    background: #6365FF;
     margin: 40px auto;
 }
 .contact-form {
@@ -450,7 +450,7 @@ nav #hamburger {
     transition: 0.5s;
 }
 .contact-form-text:focus {
-    box-shadow: 0 0 10px 4px #a9e30b;
+    box-shadow: 0 0 10px 4px #6365FF;
     opacity: 50%;
 }
 .contact-form-message {
@@ -466,7 +466,7 @@ nav #hamburger {
     transition: 0.5s;
 }
 .contact-form-message:focus {
-    box-shadow: 0 0 10px 4px #a9e30b;
+    box-shadow: 0 0 10px 4px #6365FF;
     opacity: 50%;
 }
 textarea.contact-form-text {
@@ -484,7 +484,7 @@ textarea.contact-form-text {
     margin-top: 10px;
 }
 .contact-form-btn:hover {
-    background: #a9e30b;
+    background: #6365FF;
 }
 
 
@@ -526,8 +526,7 @@ textarea.contact-form-text {
     transition: .5s ease-in-out;
 }
 .bottom-bar-socials:hover{
-    filter: invert(72%) sepia(64%) saturate(606%) hue-rotate(26deg) brightness(102%) contrast(96%);
-    transform: scale(1.2);
+    filter: invert(35%) sepia(64%) saturate(2962%) hue-rotate(227deg) brightness(103%) contrast(102%);
     position: relative;
 }
 .bottom-bar-text {
